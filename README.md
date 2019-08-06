@@ -1,4 +1,10 @@
 # levensthein_nodejs
+<h4>Gereklilikler</h4>
+Mongodb
+npm
+leven
+
+
 
 Proje mongodb ile ilişkili olarak veritabanından isimleri çekip, aldığı parametre ile eşleştirip yakın olanları listeliyor.
 
